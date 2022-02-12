@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **govindsingh0498@gmail.com**
 
-- 📄 Take a look at my Resume [Resume](https://drive.google.com/file/d/1pEN7Y1YUCvbZ1QrYW5vaaD7LnyFyFi9S/view?usp=sharing)
+- 📄 Take a look at my [Resume](https://drive.google.com/file/d/1pEN7Y1YUCvbZ1QrYW5vaaD7LnyFyFi9S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
