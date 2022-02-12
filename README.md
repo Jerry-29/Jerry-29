@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **govindsingh0498@gmail.com**
 
-- 📄 Take a look at my Resume <a href="https://drive.google.com/file/d/1pEN7Y1YUCvbZ1QrYW5vaaD7LnyFyFi9S/view?usp=sharing" target="blank">Resume</a>
+- 📄 Take a look at my Resume <a href="https://drive.google.com/file/d/1pEN7Y1YUCvbZ1QrYW5vaaD7LnyFyFi9S/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/govind-singh-b74651188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govind-singh-b74651188/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/govind-singh-b74651188/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govind-singh-b74651188/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jerry_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jerry_29" height="30" width="40" /></a>
 </p>
 
