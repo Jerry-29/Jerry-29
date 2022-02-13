@@ -19,6 +19,9 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 - 👨‍💻 Check my projects and <a href="https://govindportfolio29.netlify.app/" target="_blank">Portfolio</a>
 
 
+- 📄 Take a look at my [Resume](https://drive.google.com/file/d/1pEN7Y1YUCvbZ1QrYW5vaaD7LnyFyFi9S/view?usp=sharing)
+
+
 - 📫  Reach me **govindsingh0498@gmail.com**
 
 
