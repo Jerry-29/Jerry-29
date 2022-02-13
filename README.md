@@ -19,7 +19,7 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 - 👨‍💻 Check my projects and <a href="https://govindportfolio29.netlify.app/" target="_blank">Portfolio</a>
 
 
--📫  Reach me **govindsingh0498@gmail.com**
+- 📫  Reach me **govindsingh0498@gmail.com**
 
 
 - ⚡ Fun fact: I use tabs over spaces  
