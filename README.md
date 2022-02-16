@@ -122,7 +122,7 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jerry-29&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jerry-29)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>  
 
 
