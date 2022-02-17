@@ -121,19 +121,30 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jerry-29&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jerry-29)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jerry-29&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=jerry-29)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-29)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-29&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jerry-29)  
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jerry-29)  
+<div align="center">
 <br/>  
 
 
-## 🎼  
+<!-- ## 🎼   -->
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g5j2roos26sg2ypxiq55pvb5uy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g5j2roos26sg2ypxiq55pvb5uy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>   -->
 
 <br/>  
 
