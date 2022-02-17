@@ -16,7 +16,7 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- 👨‍💻 Check my projects and <a href="https://govindportfolio29.netlify.app/" target="_blank">Portfolio</a>
+- 👨‍💻 Check my projects
 
 
 - 📄 Take a look at my [Resume](https://drive.google.com/file/d/1pEN7Y1YUCvbZ1QrYW5vaaD7LnyFyFi9S/view?usp=sharing)
@@ -37,7 +37,7 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 
 
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -54,12 +54,12 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 
 
 ### Backend  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   -->
@@ -78,7 +78,7 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 
 
 ### DevOps  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -122,7 +122,8 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 
 ## Github Stats  
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jerry-29&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
-<div align="center">
+<div >
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=jerry-29)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-29)](https://github.com/anuraghazra/github-readme-stats)
