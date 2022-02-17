@@ -49,8 +49,8 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
+<!-- </td><td valign="top" width="33%">
+ -->
 
 
 ### Backend  
@@ -73,8 +73,8 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
+<!-- </td><td valign="top" width="33%">
+ -->
 
 
 ### DevOps  
@@ -92,7 +92,7 @@ A skilled and passionate full stack web developer 💻 specializing in MERN tech
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 </div>
 
-</td></tr></table>  
+<!-- </td></tr></table>   -->
 
 <br/>  
 
